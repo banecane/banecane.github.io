@@ -1,0 +1,7 @@
+title: "Nilaksh’s Math Blog"
+description: "Thoughts on Fourier analysis, PDEs, and representation theory"
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  input: GFM
