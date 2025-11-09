@@ -1,8 +1,4 @@
 
----
-layout: home
-title: "Nilaksh’s Math Blog"
----
 
 Welcome!  
 I'm Nilaksh a PhD student at IISc Bangalore.   
