@@ -1,7 +1,13 @@
 title: "Nilaksh’s Math Blog"
-description: "Thoughts on Fourier analysis, PDEs, and representation theory"
+description: "Rambalings of a PhD Student"
 theme: minima
 markdown: kramdown
 kramdown:
   math_engine: mathjax
   input: GFM
+
+
+header_pages:
+  - about.md
+
+github_username: banecane
