@@ -5,9 +5,9 @@ title: "Books To Read This Winter"
 
 I plan on reading the following books this winter.
 $$
-\begin{enumerate}
+\begin{itemize}
 \item Elliptic Partial Differential Equations of Second Order, Gilbard and Trudinger
-\end{enumerate}
+\end{itemize}
 $$
 
 ---
