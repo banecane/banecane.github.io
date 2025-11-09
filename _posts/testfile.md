@@ -29,3 +29,5 @@ $$
 u = 0 & \text{on } \partial \Omega.
 \end{cases}
 $$
+---
+_Posted on November 9, 2025._
