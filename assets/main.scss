@@ -1,0 +1,39 @@
+---
+# this tells Jekyll to process it
+---
+
+@import "minima";
+/* === MathJax and general math aesthetics === */
+
+/* Center display equations nicely */
+mjx-container[jax="CHTML"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1.2em 0;
+}
+
+/* Use a clean, paper-like serif for math */
+mjx-container {
+  font-family: 'Times New Roman', 'STIX Two Math', serif;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/* Improve spacing between text and math */
+mjx-container[jax="CHTML"] {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Inline math slightly larger for readability */
+mjx-container[jax="CHTML"][display="false"] {
+  font-size: 1.02em;
+}
+
+/* Optional: slightly lighter post text for balance */
+.post-content {
+  font-family: "Georgia", serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #2a2a2a;
+}
