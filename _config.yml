@@ -8,6 +8,6 @@ kramdown:
 
 
 header_pages:
-  - About Me/about.md
+  - about.md
 
 github_username: banecane
