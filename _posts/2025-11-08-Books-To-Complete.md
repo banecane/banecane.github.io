@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Books To Read This Winter"
+title: "Winter 2025 Reads"
 ---
 
 I plan on reading the following books this winter.
