@@ -14,3 +14,9 @@ header_pages:
   - about.md
 
 github_username: banecane
+
+
+collections:
+  bookreviews:
+    output: true
+    permalink: /bookreviews/:name/
