@@ -10,4 +10,4 @@ I plan on reading the following books this winter.
 - Story of Your Life, Ted Chiang.
 
 ---
-_Posted on November 9, 2025._
+_Posted on November 10, 2025._
