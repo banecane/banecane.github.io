@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bookreview
 title: "Book Reviews"
 ---
 
