@@ -12,6 +12,7 @@ kramdown:
 
 header_pages:
   - about.md
+  - bookreviews.md
 
 github_username: banecane
 
