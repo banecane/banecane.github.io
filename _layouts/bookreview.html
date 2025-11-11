@@ -1,12 +1,10 @@
 ---
-layout: default
 ---
-
-<article class="book-review">
+{% include head.html %}
+<body>
   <h1>{{ page.title }}</h1>
-  <p><strong>Author:</strong> {{ page.author }}</p>
-  <p><strong>Rating:</strong> {{ page.rating }}/5</p>
-  <div class="review-content">
+  <p><em>{{ page.date | date: "%B %d, %Y" }}</em></p>
+  <div class="content">
     {{ content }}
   </div>
-</article>
+</body>
