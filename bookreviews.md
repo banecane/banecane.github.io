@@ -3,6 +3,8 @@ layout: page
 title: Book Reviews
 permalink: /bookreviews/
 ---
+<h1>Book Reviews</h1>
+
 <ul>
   {% for review in site.bookreviews %}
     <li>
