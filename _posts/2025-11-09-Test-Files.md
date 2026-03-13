@@ -29,3 +29,6 @@ $$
 u = 0 & \text{on } \partial \Omega.
 \end{cases}
 $$
+$$
+\mathbb{R}^n  
+$$
