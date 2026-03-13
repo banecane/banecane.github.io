@@ -1,7 +1,14 @@
+---
+layout: home
+title: My Notes Index
+---
 
+# My Mathematical Notes
 
-Welcome!  
-I'm Nilaksh a PhD student at IISc Bangalore.   
-
-Below are my latest posts.  
-Each post explores an idea I’ve found beautiful or surprising. 
+<ul>
+  {% for page in site.pages %}
+    {% if page.title %}
+      <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
